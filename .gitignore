@@ -1,1 +1,5 @@
 *.vsidx
+*.sqlite
+.vs/Drakkenheim-web/v17/DocumentLayout.json
+*.vsidx
+/.vs

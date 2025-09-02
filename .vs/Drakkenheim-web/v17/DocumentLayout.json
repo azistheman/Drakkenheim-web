@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\vscode\\Drakkenheim-web\\",
+  "WorkspaceRootPath": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\vscode\\Drakkenheim-web\\The world of drakkenheim.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\DM page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DM page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Drakkenheim web home page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Drakkenheim web home page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\factions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:factions.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Information.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Information.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\password.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:password.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\player background.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:player background.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Player information.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player information.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Player page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Spells and other magic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Spells and other magic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\The world of drakkenheim.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:The world of drakkenheim.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\css\\my-first-stylesheet.css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\my-first-stylesheet.css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "The world of drakkenheim.html",
-              "DocumentMoniker": "G:\\vscode\\Drakkenheim-web\\The world of drakkenheim.html",
-              "RelativeDocumentMoniker": "The world of drakkenheim.html",
-              "ToolTip": "G:\\vscode\\Drakkenheim-web\\The world of drakkenheim.html",
-              "RelativeToolTip": "The world of drakkenheim.html",
-              "ViewState": "AgIAAHMCAAAAAAAAAAAAAI8CAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Player information.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Player information.html",
+              "RelativeDocumentMoniker": "Player information.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Player information.html",
+              "RelativeToolTip": "Player information.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-29T15:50:31.443Z",
+              "WhenOpened": "2025-09-02T19:10:04.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "player background.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\player background.html",
+              "RelativeDocumentMoniker": "player background.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\player background.html",
+              "RelativeToolTip": "player background.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:03.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "password.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\password.html",
+              "RelativeDocumentMoniker": "password.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\password.html",
+              "RelativeToolTip": "password.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:02.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Information.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Information.html",
+              "RelativeDocumentMoniker": "Information.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Information.html",
+              "RelativeToolTip": "Information.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:02.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "factions.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\factions.html",
+              "RelativeDocumentMoniker": "factions.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\factions.html",
+              "RelativeToolTip": "factions.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drakkenheim web home page.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Drakkenheim web home page.html",
+              "RelativeDocumentMoniker": "Drakkenheim web home page.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Drakkenheim web home page.html",
+              "RelativeToolTip": "Drakkenheim web home page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:09:54.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DM page.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\DM page.html",
+              "RelativeDocumentMoniker": "DM page.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\DM page.html",
+              "RelativeToolTip": "DM page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player page.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Player page.html",
+              "RelativeDocumentMoniker": "Player page.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Player page.html",
+              "RelativeToolTip": "Player page.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spells and other magic.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Spells and other magic.html",
+              "RelativeDocumentMoniker": "Spells and other magic.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\Spells and other magic.html",
+              "RelativeToolTip": "Spells and other magic.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:25.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "The world of drakkenheim.html",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\The world of drakkenheim.html",
+              "RelativeDocumentMoniker": "The world of drakkenheim.html",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\The world of drakkenheim.html",
+              "RelativeToolTip": "The world of drakkenheim.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-02T19:10:26.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "my-first-stylesheet.css.css",
+              "DocumentMoniker": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\css\\my-first-stylesheet.css.css",
+              "RelativeDocumentMoniker": "css\\my-first-stylesheet.css.css",
+              "ToolTip": "C:\\Users\\orlan\\Desktop\\Drakkenheim-web\\css\\my-first-stylesheet.css.css",
+              "RelativeToolTip": "css\\my-first-stylesheet.css.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-02T19:09:50.127Z",
               "EditorCaption": ""
             }
           ]
