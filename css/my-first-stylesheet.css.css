@@ -1,3 +1,4 @@
 body {
- font-family: 'Google Sans Code';
+    font-family: 'Google Sans Code';
+    font-size: 1rem; /* default ~16px, but scales with browser settings */
 }
