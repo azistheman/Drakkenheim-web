@@ -17,6 +17,11 @@
 */
 
 /* HTML and Body Styles */
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
 
 html {
    background-color: rgb(109, 65, 110);
@@ -62,7 +67,7 @@ section#leftColumn p {
 
 body > footer {
    font-size: 0.9em;
-   color: rgb(108, 30, 110);
+   color: rgb(71, 16, 74);
 }
 
 body > footer h1 {
