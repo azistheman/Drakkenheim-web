@@ -45,7 +45,7 @@ nav.horizontalNavigation a {
 
 nav.horizontalNavigation a:link, 
 nav.horizontalNavigation a:visited {
-   color: rgb(55, 8, 56);
+   color: rgb(0, 0, 0);
 }
 
 nav.horizontalNavigation a:hover, 
