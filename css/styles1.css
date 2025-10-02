@@ -32,6 +32,29 @@ body {
    background-color: rgb(138, 36, 140);  
 }
 
+a:link {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(215, 134, 217);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(215, 134, 217);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 
 /* Horizontal Navigation Styles */
 
